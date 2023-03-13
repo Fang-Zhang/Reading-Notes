@@ -1,10 +1,23 @@
 
 # 1. Getting Started
 ## 1.1. Installation
-
-```
-npx run cli
-```
+1. Install Tailwind CSS
+    ```
+    npm install -D tailwindcss
+    npx tailwindcss init
+    ```
+2. Configure your template paths
+   ```
+   /** @type {import('tailwindcss').Config} */
+        module.exports = {
+        content: ["./src/**/*.{html,js}"],
+        theme: {
+            extend: {},
+        },
+        plugins: [],
+        }
+   ```
+3. Add
 ## 1.2. Editor Setup
 ## 1.3. Using with Pre-processors
 ## 1.4. Optimizing for Production
