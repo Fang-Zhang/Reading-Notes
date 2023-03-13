@@ -1,3 +1,4 @@
+This tutorial is referred to the [official documentation](https://tailwindcss.com/docs/installation)
 
 # 1. Getting Started
 ## 1.1. Installation
