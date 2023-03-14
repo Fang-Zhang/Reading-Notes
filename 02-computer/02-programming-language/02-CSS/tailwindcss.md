@@ -63,7 +63,19 @@ This tutorial is referred to the [official documentation](https://tailwindcss.co
 ## 2.4 Dark Mode
 ## 2.5 Reusing Styles
 ## 2.6 Adding Custom Styles
-## 2.7 Functions & Derectives
+## 2.7 Functions & Directives
+### 2.7.1 Directives
+#### @tailwind
+Use the @tailwind directive to insert Tailwind’s base, components, utilities and variants styles into your CSS.
+#### @layer
+Use the @layer directive to tell Tailwind which “bucket” a set of custom styles belong to. Valid layers are base, components, and utilities.
+#### @apply
+Use @apply to inline any existing utility classes into your own custom CSS.
+#### @config
+Use the @config directive to specify which config file Tailwind should use when compiling that CSS file. This is useful for projects that need to use different configuration files for different CSS entry points.
+### 2.7.2 Functions
+#### theme()
+#### screen()
 <br>
 
 # 3. Customization
