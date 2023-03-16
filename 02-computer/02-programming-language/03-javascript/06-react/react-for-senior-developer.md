@@ -4,6 +4,7 @@
 #### Concept: 
 React is a UI framework. It's thinking model is:<br>
 > View = function(props)<br>
+
 There are only components in React, no pages, no controllers, no models.<br>
 ## 1.2 JSX
 ## 1.3 Life Cycle
