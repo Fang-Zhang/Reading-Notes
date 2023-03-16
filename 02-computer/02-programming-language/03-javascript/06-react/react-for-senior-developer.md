@@ -37,7 +37,7 @@ Build encapsulated components that manage their state, then compose them to make
 No assumption about other technology stack, so you can develop new features in React without rewriting existing code. Meanwhile, React can render on server using Node, and power mobile apps using React Native. Specificity, virtual DOM helps all React developers out from the DOM-Operation directly.<br>
 
 #### 1.1.2 Disadvantage:
-React is just a library, not a comprehensive framework. Some spots, React doesn't implement them by itself, such as Route, State Management. These increase the learning curve about he [Eco-System of React](#EcoSystem) <a href="#EcoSystem">abc</a>.
+React is just a library, not a comprehensive framework. Some spots, React doesn't implement them by itself, such as Route, State Management. These increase the learning curve about he [Eco-System of React](#EcoSystem).
 
 ### 1.2 JSX
 ### 1.3 Life Cycle
@@ -47,5 +47,5 @@ React is just a library, not a comprehensive framework. Some spots, React doesn'
 ## 3. Render Process
 ## 4. Performance Optimization
 ## 5. React Hooks
-## 6. <a name="EcoSystem">Eco-System of React</a>
+## 6. <a id="EcoSystem"></a>Eco-System of React
 ## 7. Perfect Resume
