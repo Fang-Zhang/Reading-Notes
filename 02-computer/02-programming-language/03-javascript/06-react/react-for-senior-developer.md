@@ -83,7 +83,7 @@ React doesn't want to import too many new concept and just inherit from exiting 
 ### 1.3 Life Cycle
 ### 1.4 Component Types
 ### 1.5 Design Patterns
-## 2. Statement Management
+## 2. State Management
 ## 3. Render Process
 ## 4. Performance Optimization
 ## 5. React Hooks
