@@ -46,7 +46,13 @@ The purpose of going into business is to expand beyond your existing horizons. S
 ## Chapter 8. The Franchise Prototype
 - **Training program**: Hamburger U
 ## Chapter 9. Working on your business, Not in it.
-- Your business is not your life.
+- **Your business is not your life**: Once you recognize that the purpose of your life is not to serve your business, but that the primary purpose of your business is to serve your life, you can go to work on your business, rather than in it, with full understanding of why it is absolutely necessary for you to do so.
+- The model will provide consistent value to your customers, employees, suppliers, and lenders, beyond what they expect.
+- The model will be operated by people with the lowest possible level of skill.
+- The model will stand out as as a place of impeccable order.
+- All work in the model will be documented in Operations Manuals.
+- The model will provide a  uniformly predictable service to the customer.
+- The model will utilize a uniform color, dress and facilities code.
 # Part 3: Building a Small Business That Works!
 ## Chapter 10. The Business Development Process
 ## Chapter 11. Your Business Development Program
