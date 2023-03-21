@@ -12,13 +12,41 @@
 While Entrepreneurial dreams, the Manager frets, and the Technician ruminates.
 
 ## Chapter 3. Infancy: The Technician's Phase
+Three phases of a business's growth: Infancy -> Adolescence -> Maturity
+<br />
+
+It's easy to spot a business in **Infancy** ---the owner and the business are one adn the same thing.
+<br />
+
+In infancy, you are the business.
+<br />
+
+Infancy ends when the owner realizes that the business can't continue to run the way it has been before. In order to survive, it will have to change.
+<br />
+
+The purpose of going into business is to expand beyond your existing horizons. So you can invent something that satisfies a need in the marketplace that has never been satisfied before. So you can live an expanded, stimulating new life.
+<br />
+
 ## Chapter 4. Adolescence: Getting some Help
+- Adolescence begins at the point in the life of your business when you decide to get some help --- technical help from someone with experience in your kind of business.
+- Someone who knows how to do the technical work that isn't getting done --- usually the work you don't like to do.
 ## Chapter 5. Beyond the comfort zone
+- **Getting Small Again**: You don't own a business --- you own a job.
+- **Going for Broke**: "Going-for-broke" businesses are a sign of our time. 
+- **Adolescent Survival**: Simply put, your job is to prepare yourself and your business for growth.
 ## Chapter 6. Maturity and the Entrepreneurial Perspective
+- **Entrepreneurial Perspective**: How it looks, how it acts, how it does what it is intended to do.
+- **Entrepreneurial Model**: This model has less to do with what's done in a business and more to do with how it's done. The commodity isn't what's important --- the way it's delivered is.
 # Part 2: The Turn-Key Revolution: A New View of Business
 ## Chapter 7. The Turn-Key Revolution
+- **Franchise Phenomenon**: MacDonald's
+- **The Most successful Small Business in the World**: Compare that statistic to the more than 80-percent failure rate of independently owned business, and you can immediately understand the power of the Turn-Key Revolution in our economy, and the contribution that the Business Format Franchise has made to it and future success of your business.
+- **Turning the Key: The Business Format Franchise**: Business Format Franchise moves a step beyond the trade name franchise. It not only lends its name to the smaller enterprise but it also provides the franchisee with an entire system of doing business.
+- **Selling the Business Instead of the Product**:
 ## Chapter 8. The Franchise Prototype
+- **Training program**: Hamburger U
 ## Chapter 9. Working on your business, Not in it.
+- Your business is not your life.
 # Part 3: Building a Small Business That Works!
 ## Chapter 10. The Business Development Process
 ## Chapter 11. Your Business Development Program
