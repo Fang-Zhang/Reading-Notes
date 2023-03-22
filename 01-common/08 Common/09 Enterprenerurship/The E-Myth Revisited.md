@@ -55,6 +55,11 @@ The purpose of going into business is to expand beyond your existing horizons. S
 - The model will utilize a uniform color, dress and facilities code.
 # Part 3: Building a Small Business That Works!
 ## Chapter 10. The Business Development Process
+- **Three Foundation**:
+  - Innovation: Creativity(Think new things) VS Innovation(Do new things)
+  - Quantification:
+  - Orchestration:
+- 
 ## Chapter 11. Your Business Development Program
 ## Chapter 12. Your Primary Aim
 ## Chapter 13. Your Strategic Objective
