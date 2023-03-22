@@ -55,18 +55,54 @@ The purpose of going into business is to expand beyond your existing horizons. S
 - The model will utilize a uniform color, dress and facilities code.
 # Part 3: Building a Small Business That Works!
 ## Chapter 10. The Business Development Process
-- **Three Foundation**:
-  - Innovation: Creativity(Think new things) VS Innovation(Do new things)
-  - Quantification:
-  - Orchestration:
-- 
+**Three Foundation**:
+- **Innovation**: Creativity(Think new things) VS Innovation(Do new things)
+- **Quantification**: Without Quantification, how would you know whether the Innovation worked?
+- 1. Determining how many people came in the door before the Innovation was put into effect;
+- 2. Determining how many people bought products and what the dollar value of those products were before you changed the words and what you said to produce those sales;
+- 3. Counting the number of people who came in the door after you changed the words;
+- 4. Counting the number of people who purchased something;
+- 5. Determining the average unit value of a sale;
+- 6. Determining what the improvement was as a result of your Innovation?
+- These numbers enable you to determine the precise value of your innovation.
+- **Orchestration**: Orchestration is the elimination of discretion, or choice, at the operating level of your business.
 ## Chapter 11. Your Business Development Program
+- **Your Primary Aim**
+- **Your Strategic Objective**
+- **Your Organizational Strategy**
+- **Your Management Strategy**
+- **Your People Strategy**
+- **Your Marketing Strategy**
+- **Your System Strategy**
 ## Chapter 12. Your Primary Aim
+**Picture of how you want your life to be**
 ## Chapter 13. Your Strategic Objective
+- **Very clear statement of what your business has to ultimately do for you to achieve your Primary Aim**
+- The vision for your business.
+- Your business is a means rather than an end, a vehicle to enrich your life rather than one that drains the life you have. So your Strategic Objective is not a business plan. It is a product of your **Life Plan**, as well as your Business Strategy and Plan.
+- Some standards that need to be included in your Strategic Objective:
+  - The 1st Standard: Money
+  - The 2nd Standard: An Opportunity Worth Pursuing
+    - What Kind of Business Am I In?
+    - Who is My Customer?
 ## Chapter 14. Your Organizational Strategy
+- Organizing Around Personalities
+- Organizing Your Company
+- Prototyping the Position: Replacing Yourself with a System
 ## Chapter 15. Your Management Strategy
+- What's a Management System?
 ## Chapter 16. Your People Strategy
+- The Rules of the Game
+- The Logic of the Game
+- Playing the Game
 ## Chapter 17. Your Marketing Strategy
+**Forget about everything but your customers.**
+- The Irrational Decision Maker
+- The Two Pillars of a Successful Marketing Strategy
 ## Chapter 18. Your System Strategy
+- Three Kinds of System
+  - Hard Systems: Inanimate, unliving things.
+  - Soft Systems: Either animate-living-or ideas.
+  - Information Systems: The interaction between the other two.
 ## Chapter 19. A letter to Sarah
 # Epilogue: Bringing the Dream Back to American Small Business
