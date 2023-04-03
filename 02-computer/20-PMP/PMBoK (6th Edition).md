@@ -256,9 +256,83 @@
 
 # Part 2. The Standard for Project Management
 
-## Introduction
-## Initialing Process Group
-## Planning Process Group
-## Executing Project Management
-## Monitoring and Controlling Process Group
-## Closing Process Group
+## 1 Introduction
+### 1.1 Projects and Project Management
+### 1.2 Relationships Among Portfolios, Programs and Projects
+### 1.3 Linking Organizational Governance and Project Governance
+### 1.4 Project Success and Benefits Management
+### 1.5 The Project Life Cycle
+### 1.6 Project Stakeholders
+### 1.7 Role of the Project Manager
+### 1.8 Project Management Knowledge Areas
+### 1.9 Project Management Process Groups
+### 1.10 Enterprise Environmental Factors and Organizational Process Assets
+### 1.11 Tailoring the Project Artifacts
+## 2 Initialing Process Group
+### 2.1 Develop Project Charter
+### 2.2 Identify Stakeholders
+#### 2.2.1 Project Management Plan Components
+#### 2.2.2 Project Documents Examples
+#### 2.2.3 Project Management Plan Updates
+#### 2.2.4 Project Documents Updates
+## 3 Planning Process Group
+### 3.1 Develop Project Plan
+### 3.2 Plan Scope Management
+#### 3.2.1 Project Management Plan Components
+### 3.3 Collect Requirements
+#### 3.3.1 Project Management Plan Components
+#### 3.3.2 Project Documents Examples
+### 3.4 Define Scope
+#### 3.4.1 Project Management Plan Components
+#### 3.4.2 Project Documents Examples
+#### 3.4.3 Project Documents Updates
+### 3.5 Create WBS
+#### 3.5.1 Project Management Plan Components
+#### 3.5.2 Project Documents Examples
+#### 3.5.3 Project Documents Updates
+### 3.6 Plan Schedule Management
+#### 3.6.1 Project Management Plan Components
+### 3.7 Define Activities
+#### 3.7.1 Project Management Plan Components
+#### 3.7.2 Project Documents Examples
+### 3.8 Sequence Activities
+#### 3.8.1 Project Management Plan Components
+#### 3.8.2 Project Documents Examples
+#### 3.8.3 Project Documents Updates
+### 3.9 Estimate Activity Duration
+#### 3.9.1 Project Management Plan Components
+#### 3.9.2 Project Documents Examples
+#### 3.9.3 Project Documents Updates
+### 3.10 Develop Schedule
+#### 3.10.1 Project Management Plan Components
+#### 3.10.2 Project Documents Examples
+#### 3.10.3 Project Documents Plan Updates
+#### 3.10.4 Project Documents Updates
+### 3.11 Plan Cost Management
+#### 3.11.1 Project Management Plan Components
+### 3.12 Estimate Costs
+### 3.13 Determine Budget
+### 3.14 Plan Quality Management
+### 3.15 Plan Resource Management
+### 3.16 Estimate Activity Resources
+### 3.17 Plan Communications Management
+### 3.18 Plan Risk Management
+### 3.19 Identify Risks
+### 3.20 Perform Qualitative Risk Analysis
+### 3.21 Perform Quantitative Risk Analysis
+### 3.22 Plan Risk Responses
+### 3.23 Plan Procurement Management
+### 3.24 Plan Stakeholders Engagement
+## 4 Executing Project Management
+### 4.1 Direct and Manage Project Work
+### 4.2 Manage Project Knowledge
+### 4.3 Manage Quality
+### 4.4 Acquire Resources
+### 4.5 Develop Team
+### 4.6 Manage Team
+### 4.7 Manage Communications
+### 4.8 Implement Risk Response
+### 4.9 Conduct Procurements
+### 4.10 Manage Stakeholders Engagement
+## 5 Monitoring and Controlling Process Group
+## 6 Closing Process Group
