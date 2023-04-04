@@ -335,4 +335,17 @@
 ### 4.9 Conduct Procurements
 ### 4.10 Manage Stakeholders Engagement
 ## 5 Monitoring and Controlling Process Group
+### 5.1 Monitor and Control Project Work
+### 5.2 Perform Integrated Change Control
+### 5.3 Validate Scope
+### 5.4 Control Scope
+### 5.5 Control Schedule
+### 5.6 Control Costs
+### 5.7 Control Quality
+### 5.8 Control Resources
+### 5.9 Monitor Communications
+### 5.10 Monitor Risks
+### 5.11 Control Procurements
+### 5.12 Monitor Stakeholder Engagement
 ## 6 Closing Process Group
+### 6.1 Close Project or Phase
