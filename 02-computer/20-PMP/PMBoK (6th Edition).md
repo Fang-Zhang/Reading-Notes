@@ -10,7 +10,7 @@
 A Project is a temporary endeavor undertaken to create a unique product, service, or result.
 - Unique product, service, or result
 - Temporary endeavor
-- Projects drive change
+- Projects drive change <br/>
   ![Organizational State Transition via a Project](/02-computer/20-PMP/resources/Organizational%20State%20Transition%20via%20a%20Project.png)
 - Projects enable business value creation
 #### 1.2.2 The Importance of Project Management
