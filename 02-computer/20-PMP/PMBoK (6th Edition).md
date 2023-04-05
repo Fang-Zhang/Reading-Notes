@@ -26,7 +26,17 @@ A Project is a temporary endeavor undertaken to create a unique product, service
 
 ![Relationship of Project, Program, Portfolio, and Operations Management](resources/Portfolio-Programs-Projects.png)
 
+![Comparation](resources/Portfolios-Programs-Project-Comparation.png)
+
+![OPM](resources/Organizational-Project-Management.png)
+
 #### 1.2.4 Components of the Guide
+
+![Key-Component](resources/Key-Components.png)
+
+![Key-Component-Project](resources/Key-Components-in-Project.png)
+
+![Mapping](resources/ProcessingGroup-KnowledgeArea-Mapping.png)
 #### 1.2.5 Tailoring
 #### 1.2.6 Project Management Business Documents
 ## 2 The Environment in which Project Operate
