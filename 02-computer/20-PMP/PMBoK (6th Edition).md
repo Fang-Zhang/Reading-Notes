@@ -14,10 +14,18 @@ A Project is a temporary endeavor undertaken to create a unique product, service
   ![Organizational State Transition via a Project](/02-computer/20-PMP/resources/Organizational%20State%20Transition%20via%20a%20Project.png)
 - Projects enable business value creation
 - Project Initiation Context <br/>
-  ![Project Initiation Context](resources/Project%20Initiation%20Conext.png)
-- 
+  ![Project Initiation Context](resources/Project%20Initiation%20Conext.png) <br/>
+  ![Factors to creation of project](resources/Factors%20that%20lead%20to%20the%20creation%20of%20a%20projcet.png) 
 #### 1.2.2 The Importance of Project Management
+<br/>
+
+![importances](resources/Importances%20of%20project.png)
+
 #### 1.2.3 Relationship of Project, Program, Portfolio, and Operations Management
+<br/>
+
+![Relationship of Project, Program, Portfolio, and Operations Management](resources/Portfolio-Programs-Projects.png)
+
 #### 1.2.4 Components of the Guide
 #### 1.2.5 Tailoring
 #### 1.2.6 Project Management Business Documents
