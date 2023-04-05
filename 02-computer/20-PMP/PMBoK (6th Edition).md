@@ -39,14 +39,46 @@ A Project is a temporary endeavor undertaken to create a unique product, service
 ![Mapping](resources/ProcessingGroup-KnowledgeArea-Mapping.png)
 #### 1.2.5 Tailoring
 #### 1.2.6 Project Management Business Documents
+- Project Business Case: A documented economic feasibility study used to establish the validity of the benefits of a selected component lacking sufficient definition and that is used as a basis for the authorization of further project management activities.
+- Project Benefits Management Plan: The documented explanation defining the processes for creating, maximizing, and sustaining the benefits provided by a project.
+
+<br/>
+
+![Business Documents](resources/Business-Documents.png)
+
 ## 2 The Environment in which Project Operate
 ### 2.1 Overview
+![Project Influences](resources/Project-Influences.png)
+
 ### 2.2 Enterprise Environment Factors
 #### 2.2.1 EEFs Internal to the Organization
+- Organizational Culture, Structure, and Governance
+- Geographic Distribution of Facilities and Resources
+- Infrastructure
+- Information Technology Software
+- Resource Available
+- Employee Capability
 #### 2.2.2 EEFs External to the Organization
+- Marketplace Conditions
+- Social and Culture Influences and Issues
+- Legal Restrictions
+- Commercial Database
+- Academic Research
+- Government or Industry Standards
+- Financial Considerations
+- Physical Environmental Elements
 ### 2.3 Organizational Process Assets
 #### 2.3.1 Process, Policies, and Procedures
+- Initiating and Planning
+- Executing, Monitoring and Controlling
+- Closing
 #### 2.3.2 Organizational Knowledge Repositories
+- Configuration Management Knowledge Repositories
+- Financial Data Repositories
+- Historical Information and Lessons Learned Knowledge Repositories
+- Issue and Defect Management Data Repositories
+- Data Repositories
+- Project Files from previous projects
 ### 2.4 Organizational Systems
 #### 2.4.1 Overview
 #### 2.4.2 Organizational Governance Frameworks
