@@ -82,13 +82,22 @@ A Project is a temporary endeavor undertaken to create a unique product, service
 ### 2.4 Organizational Systems
 #### 2.4.1 Overview
 #### 2.4.2 Organizational Governance Frameworks
+- Governance Framework
+- Governance of Portfolios, Programs, and Projects
 #### 2.4.3 Management Elements
 #### 2.4.4 Organizational Structure Types
 ## 3 The Role of the Project Manager
 ### 3.1 Overview
+- Membership and Roles
+- Responsibility for team
+- Knowledge and Skills
 ### 3.2 Definition of a Project Manager
 ### 3.3 The Project Manager's Sphere of Influence
 #### 3.3.1 Overview
+<br/>
+
+![Sphere of Influence](resources/sphere%20of%20influence.png)
+
 #### 3.3.2 The Project
 #### 3.3.3 The Organization
 #### 3.3.4 The Industry
@@ -96,10 +105,18 @@ A Project is a temporary endeavor undertaken to create a unique product, service
 #### 3.3.6 Across Disciplines
 ### 3.4 Project Manager Competences
 #### 3.4.1 Overview
+<br/>
+
+![Talent Triangle](resources/Talent%20Triangle.png)
+
 #### 3.4.2 Technical Project Management Skills
 #### 3.4.3 Strategic and Business Management Skills
 #### 3.4.4 Leadership Skills
 #### 3.4.5 Comparison of Leadership and Management
+<br/>
+
+![Management-Vs-Leadership](resources/Management-vs-Leadership.png)
+
 ### 3.5 Performing Integration
 #### 3.5.1 Performing Integration at the Process Level
 #### 3.5.2 Integration at the Cognitive Level
