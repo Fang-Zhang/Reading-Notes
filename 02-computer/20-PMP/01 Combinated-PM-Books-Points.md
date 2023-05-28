@@ -1,11 +1,24 @@
-## The principles of project management
+## The principles of project management (Meri Williams, 2008)
 
-- What's the PM
-- Get it started
-- Get things done
-- Keep it smooth
-- Following through
+- What's the PM (Definition and Why PM is crucial)
+- Get it started (Initial and Plan)
+- Get things done (Executing, Monitoring, and Controlling)
+- Keep it smooth (Communication)
+- Following through (Closing)
 - Appendix
   - Tools
+    - Initials
+      - Project Proposal Template
+        - Proposed Project
+        - Background
+        - Valued Creation
+        - Resources Required
+      - Measuring Value Creation
+        - NPV: Net Present Value
+        - IRR: Internal Rate of Return
+        - Benefit Cost Ratio
+        - Payback Period
+        - Opportunity Cost
+    - 
   - Resources
   - Qualifications
