@@ -19,6 +19,63 @@
         - Benefit Cost Ratio
         - Payback Period
         - Opportunity Cost
-    - 
+      - Project Organization Chart
+      - Communication Plan Template
+      - Project Initiation Document
+        - Business Need (Why)
+        - Project Objective (What)
+        - Project Deliverables (How)
+        - Estimated Timeline (When)
+        - Project Organization (Who)
+      - Typical Kick-Off Meeting Agenda
+        - Welcome and Introduction
+        - Project Initiation Review
+        - Project Approach
+        - Communication Plan
+        - Plan Moving Forward
+    - Plan, Executing, and Controlling
+      - Project Plan Template
+        - Deliverables and Milestones
+        - Schedule
+        - Assumptions and Constraints
+        - Risk Management Plan
+      - Work Breakdown Structure
+      - Gantt Chart
+      - Risk Management Plan Template
+        - Risk List (with Scores)
+        - Approach Taken
+        - Contingency Plan
+      - Issue List Template
+        - Number
+        - Description
+        - Priority
+        - Owner
+        - Start/Target Date
+        - Resolved Date
+        - Status
+      - Project Status Update Template
+        - High-Level Status (One-Sentence Description)
+        - Summary Achievements and Issues
+        - Details Status
+        - Attachments
+      - Change Request Template
+        - Proposer
+        - Description
+        - Business Benefits
+        - Priority
+        - Project Team Impact Assessment(Filled by Project Manager)
+        - Board Decision(Filled by Project Manager)
+    - Closing
+      - Project Sign-Off Template
+        - Project Summary (Achieved, Time, Cost, Scope, Quality)
+        - High-Level Deliverables
+        - Original Scope
+        - Change Log
+      - Stakeholder Feedback Template
+      - Lesson Learned Summary Template
+        - Background
+        - Lesson Learned
+        - Recommendations
+      - Handover and Training Plan Template
   - Resources
   - Qualifications
