@@ -79,3 +79,11 @@
       - Handover and Training Plan Template
   - Resources
   - Qualifications
+
+
+
+
+## Project Management by Numbers (Dietmar Prudix, 2016)
+
+- 42 Personal Project Strategies from Napoleon
+-  
