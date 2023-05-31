@@ -90,10 +90,20 @@
 
 
 ## Managing Transformation Projects - Tracing Lessons from the Industrial to the Digital Revolution (Mark Kozak-Holland, 2020)
-
 - The Challenge of Digital Transformation
 - Adapting Project Management to Meet This Challenge
 - Case Study 1: The Stockton and Darlington Railway
 - Case Study 2: The Transcontinental Railroad
 - Case Study 3: The Manchester Ship Canal and the World's First Industrial Park
 - Conclusion 
+
+## Adaptive Project Planning (Louise Worsley, 2019)
+- Planning a Project
+- Schedule-Driven Planning
+- Resource-Driven Planning
+- Not a Penny More - Budget-Constrained Planning
+- When It Really Does Have to Work
+- When Stakeholders Really Matter
+- Planning When It Has to be Different
+- Planning Operational Projects
+- Finally
