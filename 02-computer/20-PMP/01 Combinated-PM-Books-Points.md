@@ -86,4 +86,14 @@
 ## Project Management by Numbers (Dietmar Prudix, 2016)
 
 - 42 Personal Project Strategies from Napoleon
--  
+
+
+
+## Managing Transformation Projects - Tracing Lessons from the Industrial to the Digital Revolution (Mark Kozak-Holland, 2020)
+
+- The Challenge of Digital Transformation
+- Adapting Project Management to Meet This Challenge
+- Case Study 1: The Stockton and Darlington Railway
+- Case Study 2: The Transcontinental Railroad
+- Case Study 3: The Manchester Ship Canal and the World's First Industrial Park
+- Conclusion 
