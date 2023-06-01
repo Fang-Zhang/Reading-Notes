@@ -107,3 +107,15 @@
 - Planning When It Has to be Different
 - Planning Operational Projects
 - Finally
+
+## Creative Project Management (Micheal Dobson, 2010)
+- Why do 70% of projects fail?
+- What we know and what we think?
+- The most dangerous work is a premature YES.
+- Good enough, barely adequate, failure.
+- When the project appears impossible.
+- Knowns and unknowns: the risk factor
+- Project: Intelligency
+- It takes a village to wreck a project
+- Framing Change
+- Salvaging Project Value
