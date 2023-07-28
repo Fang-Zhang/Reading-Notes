@@ -30,12 +30,50 @@
         - Sharing fetch requests between Server Components
 2. Building Your Application
    - Routing
+     - Terminology
+     - The app Router
+     - Roles of Folders and Files
+     - Route Segments
+     - Nested Routes
+     - File Conventions
+     - Component Hierarchy
+     - Colocation
+     - Server-Centric Routing with Client-Side Navigation
+     - Partial Rendering
+     - Advanced Routing Patterns
    - Rendering
+     - Static and Dynamic
+     - Edge and Node.js Runtimes
    - Data Fetching
+     - Fetching
+     - Caching
+     - Revalidating
+     - Server Actions
    - Styling
+     - CSS Modules
+     - Tailwind CSS
+     - CSS-in-JS
+     - Sass
    - Optimizing
+     - Images
+     - Fonts
+     - Scripts
+     - Metadata
+     - Static Assets
+     - Lazy Loading
+     - Analytics
+     - OpenTelemetry
+     - Instrumentation
    - Configuring
+     - TypeScript
+     - ESLint
+     - Environment Variables
+     - Absolute Imports and Module Path Aliases
+     - MDX
+     - src Directory
+     - Draft Mode
    - Deploying
+     - Static Exports
    - Upgrading
 3. API Reference
    - Components
