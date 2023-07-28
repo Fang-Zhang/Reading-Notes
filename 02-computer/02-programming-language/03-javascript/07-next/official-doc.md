@@ -18,7 +18,7 @@
         - Moving Client Components to the Leaves
         - Composing Client and Server Components
         - Nesting Server Components inside Client Components
-        - Passing props from Server to Client Components
+        - Passing props from Server to Client Components (Serialization)
         - Keeping Server-Only Code out of Client Components(Poisoning)
         - The "server only" package
         - Data Fetching
