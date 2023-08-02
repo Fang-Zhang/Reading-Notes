@@ -20,5 +20,3 @@
 ## TypeScript Best Practice
 1. Don't put the annotation too explicitly. (such as: let mynum: number = 3.14)
 2. Don't use "any" type anywhere. Basically, "any" means turning off the type-checking function for variables. Using compiler flag "noImplicitAny" to flag any implicit "any" as an error.
->>>>>>> Stashed changes
->>>>>>> 11bfc563b50fccd47c2d1ed6a39857a271faecd6
