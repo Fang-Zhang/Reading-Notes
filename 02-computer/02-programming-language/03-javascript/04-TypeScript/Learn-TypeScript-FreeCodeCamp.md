@@ -1,5 +1,5 @@
 ## Learnnig Approach
-1. Vedio -> Official Doc
+1. Video -> Official Document 
 2. Coding can make understanding clearly
 
 ## Basics (Refer to the official document for more)
@@ -25,6 +25,10 @@
 16. Abstract Class vs Interface: Actually, both of them are blueprints.
 17. Generics vs Array and Arrow function
 18. Type Narrowing
+19. Type Guard
+20. in operator narrowing: reversely understanding
+21. Instanceof and Type Prediction
+22. Exhaustiveness Checking and Discriminated Union
 
 ## TypeScript Setup for the Project
 1. tsc --init
