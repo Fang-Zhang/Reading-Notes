@@ -46,15 +46,21 @@
   - Do you have the skills and experience to deliver on the job at hand?
 - Do you want it? (Assuming cadidate say "yes" to all the above questions, then ask the following)
   - Now that you know exactly what the role entails, do you honestly, genuinely, with no reservations want this job?
+  - Is there another job that you had your eye on (but didn't get), making this role the booby prize?
+  - Are you interested in this role because you've got your eye on the prize of a bigger job a few rungs above this one?
+  - Do you see yourself staying in this same role for at least three years?
 - Do you have the capacity to fit this job into your life?
+  - Do you have the time, mental preparedness, skills, experience, desire and space to fully commit to this role?
+  - Is there anything going on in your life that would prevent you from completing this job to the standards I have outlined in the earlier questions?
+  - Is there anything that could prevent you from completing this job in the allocated time?
 
-1. The Book of 50 (and how it changed my life)
+4. The Book of 50 (and how it changed my life)(Book of 50 is not just a "to-do" list, it's a "who-I-am" list)
 
-2. Don’t wear ‘busy’ as a badge of honour
+5. Don’t wear ‘busy’ as a badge of honour (Profit is the only thing that matters)
 
-3. How to think big
+6. How to think big (Your identity drives your actions)
 
-4. Management by walking around (the lake)
+7. Management by walking around (the lake) (Act in haste, repent at leisure)
 
 ## Part II: Momentum
 
