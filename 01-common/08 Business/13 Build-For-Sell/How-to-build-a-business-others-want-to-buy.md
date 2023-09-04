@@ -64,23 +64,28 @@
 
 ## Part II: Momentum
 
-8. How to choose a business idea that will succeed
+8. How to choose a business idea that will succeed (Don't make your lifestyle fund your business. Make your business fund your lifestyle.)
 
 9. Ten hot subscription side-hustle business ideas
 
-10. The leader sets the tone
+10. The leader sets the tone (Your team take their cues from you)
 
 11. Be stoic
 
-12. How to work on the business, not in it
+12. How to work on the business, not in it (If you really want to build your business, use the best part of your day to get the most important things done)
+- The Eisenhower Matrix
+  - Urgent and important: Do it
+  - Important but not urgent: Schedule/Decide it
+  - Urgent but not important: Delegate it
+  - Neither urgent nor important: Delete it
 
 ## Part III: Management
 
-13. How to choose your first hire
+13. How to choose your first hire (If you want to build a business that others want to buy, you need to build a team)
 
 14. How to recruit a world-class team
 
-15. How to sack someone (nicely)
+15. How to sack someone (nicely) (The reality is that not every new hire works out)
 
 16. How to manage an under-performing executive
 
@@ -88,7 +93,7 @@
 
 18. The immature entrepreneur
 
-19. Why partnerships don’t work
+19. Why partnerships don’t work (The key emotion that kill a partnership is resentment)
 
 ## Part IV: Marketing
 
