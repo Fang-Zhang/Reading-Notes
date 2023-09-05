@@ -108,6 +108,25 @@
 ## Part V: Money
 
 24. The top 21 metrics business buyers look for
+- Measurable Factors
+  - Net Profit
+  - Strike Rate
+  - Annual Contract Value(ACV)
+  - Monthly Recurring Revenue(MRR)
+  - Average Revenue Per User(ARPU)
+  - Cutomer Churn Rate(CCR)
+  - Customer Retention Rate(CRR)
+  - Customer Lifetime Value(CLV)
+  - Customer Acquisition Cost(CAC)
+- Non-Measurable Factors
+  - Intellectual Property(IP)
+  - Marketing Attractiveness and Growth
+  - Customer Concentration
+  - Competitive Advantage
+  - Owner Dependency
+  - Sales Pipeline
+  - Management Team Maturity
+  - Knowledge Management and Retention
 
 25. How to make (a lot) more money
 
