@@ -42,6 +42,21 @@
 ![communication](../../../99-resources/Communication.png)
 ### Stakeholders Communication
 ## 6. How-to Guide
+### Typical Activities and Responsibilities
+- NPS
+- Traceability of customer feedback on CRM and Engineering observability tools
+#### Customer Experience Observability Program Governance
+#### Cross-Team Alignment and Communication
+#### Customer Experience Observability and Traceability Tools
+#### Customer-Focused Input into the CI/CD Pipeline
+- pendo.io
+- heap.io
+#### Enabling Speeding Up the Analysis of Customer Feedback and Sentiment
+- NPS -> Manual Analysis -> AWS Comprehend: Sentiment Analysis from Customer Reviews
+- Speed up the analysis of customer feedback received via the support channels(NPS comments, support tickets, etc.)
+#### Increasing the signal-to-noise ratio of alerting tolls
+- PagerDuty/Sentry: "Cry Wolf" too often -> DCXE reduces the noise
+- Collaboration between DCXE and SRE teams: Latency, Errors, Saturation, and Traffic
 ## 7. Key Metrics
 ## 8. Useful Tools
 ## 9. How to get started(Today: Be curious and empathy with your customers, translate this curiosity into the right mind-a strong belief and certainty that empathy for the customer and their experience can be observed, measured, and improved, and choose the right tools as the last step)
