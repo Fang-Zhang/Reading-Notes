@@ -64,6 +64,96 @@
 ![Adoption Model](../../../99-resources/Adoption-Model.png)
 #### Establish Customer Retention Tracking
 ![Retention Analysis](../../../99-resources/Retention-Analysis.png)
-## 7. Key Metrics
+#### Create a Digital Representation of Customer Journey Success
+![Customer Journey](../../../99-resources/Customer-Journey.png)
+#### Calibrate Alert - From Noise to Important Customer Impact Signals
+#### Speed up RCA(Root Cause Analysis)
+- Funnel
+- Engagement
+- Retention
+![Funnel](../../../99-resources/Funnel-Example.png)
+![Traffic Alert](../../../99-resources/Traffic-Alert.png)
+![Coupon Funnel Example](../../../99-resources/Coupon-Funnel-Example.png)
+#### Detect and Remove Customer Friction
+![Friction](../../../99-resources/Customer-Friction.png)
+![Issue Summary](../../../99-resources/Issue-Summary-Page.png)
+#### Make Customer Experience Friction Monitoring Easy with Dashboards
+- Fullstory
+- LogRocket
+- Pendo
+- Heap
+- Amplitude
+- Quantum Metric
+- AppDynamics
+- New Relic
+- Dynatrace
+- Tealeaf
+- Splunk
+#### Seed Your Regression Test with Customer journey Interactions
+![HAR](../../../99-resources/HAR.png)
+#### Speed up the ananlysis of customer feedback received via the support channels
+![AWS Comprehend Flow](../../../99-resources/Comprehend-Flow.png)
+#### Implement the Idea of Success Criteria
+![Accpectance vs Success](../../../99-resources/Acceptance-Success-Criteria.png)
+#### Did the Release Meet the Business Goals?
+![Conversion Rate](../../../99-resources/Conversion-Rate.png)
+#### Is the Release Technically and Functionally Sound and Does it Contribute to Site Stability and Availability?
+#### Was the Desired User Engagement Achieved Within the Desired Timeframe?
+![Engagement](../../../99-resources/Engagement-Tracking.png)
+#### Did the Release Receive Positive Customer Feedback?
+#### Is the Release Void of Any Discernible User Experience Friction?
+- GitHub + Sentry
+#### Summary Regarding Success Criteria
+
+### Customer Observability and Privacy Considerations
+### Reflect the Customer Experience Insights to Your Customers
+### Build the Foundation for Tracking Customer Experience Engineering Metrics
+![CustomerExperience](../../../99-resources/CustomerExperience-RootCause.png)
+- Jira(DefectManage) + Salesforce(CRM) + Pendo(CustomerExperienceAnalysis) + Fullstory(SessioinReplay) + Sentry(ErrorManage) + DataDog(APM) + GitHub(CodeRepository)
+## 7. Key Metrics(For Successful Digital Engineering, Customer Quality, and Observability)
+### Top Six Customer Experience Metrics for Engineering Teams to Consider
+- NPS(Net Promoter Score)
+- CES(Customer Effort Score)
+- CSAT(Customer Satisfaction Score)
+- CLV(Customer Lifetime Value)
+- Retention
+- Churn
+### Other Customer experience Metrics to Consider
+- Apdex Score(Application Performance Index)
+- Error Rate
+- Uptime
+- Number of escalated customer experience issues
+- Number of detected customer experience issues
+- Time to resolution
+- SLA adherence
+- Number of site incidents
+- Software Security-related metrics
+- Number of success criteria validated
 ## 8. Useful Tools
+![ToolSpace](../../../99-resources/ToolSpace.png)
+### Tools focusing on product analytics
+![ProductAnalytics](../../../99-resources/CustomerJourneyAnalyticsTools.png)
+- Customer Experience Flow or Journey Analytics: See where the customers are going as they enter the digital experience and where they leave
+- Device, platform, and channel analytics: See what devices, platforms, and channels customers are using to access the digital experience
+- Segmentation and Cohort Analysis: Discover how cohorts or segments of your customers are behaving, engaging, and experiencing the digital experience.
+- Engagement Analysis: Learn which feartures are popular and which are not
+- Retention Analysis: See how many customers are returning to the digital experience
+### Tools focusing on customer experience visualization at the sessioin level
+![SessionReplayTools](../../../99-resources/SessionReplayTools.png)
+- Instant Visual Confirmation(a.k.a session replay) of the customer experience in the same form the customer experienced it, with important enhancements like analytics, developer tools, or friction highlighting.
+- Heatmaps: See where customers are clicking, scrolling, and moving their mouse
+- Search: Search for specific customer sessions.
+- Dashboards: Create dashboards to track key metrics and KPIs.
+### APM(Applicatioin Performance Management) tools(measuring friction in the engineering stack and speed up RCA)
+![Tracking 500 Error](../../../99-resources/Tracking500Error.png)
+![APMTools](../../../99-resources/APMTool.png)
+- Application Monitoring: Monitor the performance of the application and its dependencies.
+- Availability and Error Monitoring: Monitor the availability and error rate of the application.
+- Database Monitoring: Monitor the performance of the database.
+- In-Context Observability of Metrics, Logs, and Traces: See the metrics, logs, and traces of the application in the context of the customer experience.
+- Customer Experience and Business Metrics and Analytics: See the customer experience and business metrics and analytics in the context of the application.
 ## 9. How to get started(Today: Be curious and empathy with your customers, translate this curiosity into the right mind-a strong belief and certainty that empathy for the customer and their experience can be observed, measured, and improved, and choose the right tools as the last step)
+### Break it down into smaller steps
+![Program Stages](../../../99-resources/ProgramStages.png)
+### Organizatioinal Needs
+![Organizational Setup](../../../99-resources/OrganizationalSetup.png)
