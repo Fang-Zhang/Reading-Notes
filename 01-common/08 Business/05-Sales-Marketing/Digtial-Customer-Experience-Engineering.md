@@ -1,4 +1,5 @@
 # Digital Customer Experience Engineering
+## Strategies for Creating Effective Digital Experiences
 
 ## 1. The importance of acting today(Getting digital experiences right is not optional)
 ### Top 3 Challenges to Overcome
